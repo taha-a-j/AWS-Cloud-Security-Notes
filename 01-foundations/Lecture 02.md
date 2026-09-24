@@ -67,14 +67,6 @@
   - **Bijli aur paani (electricity/water)**
 - **AWS ka model: "Pay as you go"** jitna use karo, utna hi pay karo, koi hidden extra kharcha nahi.
 
-
-
-### Exam Tip (Important)
-
-> Exam mein aksar aisa poocha jata hai: kisi company ka problem describe karke poochte hain **kaunsa benefit us problem ko solve karta hai**.
->
-> **Misal:** *"Company bari upfront hardware purchase se bachna chahti hai"* → Iska matlab hai: **CapEx ko variable expense (OpEx) se trade karna** — yani bara ek-waqti kharcha karne ki bajaye, chhote-chhote ongoing kharche karna.
-
 ---
 
 
